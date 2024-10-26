@@ -1,0 +1,9 @@
+datas/
+screenshots/
+venv/
+coordinats.py
+cursor_find.py
+detect.py
+fix_element.png
+test_new.py
+test.py
